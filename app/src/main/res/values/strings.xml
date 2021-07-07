@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="name">"Name : "</string>
+    <string name="attribute_name">Name:</string>
+    <string name="nric">NRIC No:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="button_update">UPDATE</string>
+</resources>
